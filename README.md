@@ -1,5 +1,7 @@
 # Amazon EC2 Container Service RPM
 
+[![Join the chat at https://gitter.im/Jdesk/amazon-ecs-init](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Jdesk/amazon-ecs-init?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The Amazon EC2 Container Service RPM is software developed to support the [Amazon ECS Container
 Agent](http://github.com/aws/amazon-ecs-agent).  The Amazon ECS RPM is packaged for RPM-based systems that utilize
 [Upstart](http://upstart.ubuntu.com) as the init system.
